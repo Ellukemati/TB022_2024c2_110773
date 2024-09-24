@@ -1,0 +1,521 @@
+
+---------------------
+Pokémon: primeape.
+Altura: 100 centímetros.
+Peso: 32 kilogramos.
+
+Habilidades:
+ * Espíritu Vital
+ * Irascible
+ * Competitivo
+---------------------
+
+---------------------
+Pokémon: poliwrath.
+Altura: 130 centímetros.
+Peso: 54 kilogramos.
+
+Habilidades:
+ * Absorbe Agua
+ * Humedad
+ * Nado Rápido
+---------------------
+
+---------------------
+Pokémon: machamp.
+Altura: 160 centímetros.
+Peso: 130 kilogramos.
+
+Habilidades:
+ * Agallas
+ * Indefenso
+ * Impasible
+---------------------
+
+---------------------
+Pokémon: hitmonlee.
+Altura: 150 centímetros.
+Peso: 49 kilogramos.
+
+Habilidades:
+ * Flexibilidad
+ * Audaz
+ * Liviano
+---------------------
+
+---------------------
+Pokémon: hitmonchan.
+Altura: 140 centímetros.
+Peso: 50 kilogramos.
+
+Habilidades:
+ * Vista Lince
+ * Puño Férreo
+ * Foco Interno
+---------------------
+
+---------------------
+Pokémon: heracross.
+Altura: 150 centímetros.
+Peso: 54 kilogramos.
+
+Habilidades:
+ * Enjambre
+ * Agallas
+ * Autoestima
+---------------------
+
+---------------------
+Pokémon: hitmontop.
+Altura: 140 centímetros.
+Peso: 48 kilogramos.
+
+Habilidades:
+ * Intimidación
+ * Experto
+ * Impasible
+---------------------
+
+---------------------
+Pokémon: blaziken.
+Altura: 190 centímetros.
+Peso: 52 kilogramos.
+
+Habilidades:
+ * Mar Llamas
+ * Impulso
+---------------------
+
+---------------------
+Pokémon: breloom.
+Altura: 120 centímetros.
+Peso: 39 kilogramos.
+
+Habilidades:
+ * Efecto Espora
+ * Antídoto
+ * Experto
+---------------------
+
+---------------------
+Pokémon: hariyama.
+Altura: 230 centímetros.
+Peso: 253 kilogramos.
+
+Habilidades:
+ * Sebo
+ * Agallas
+ * Potencia Bruta
+---------------------
+
+---------------------
+Pokémon: infernape.
+Altura: 120 centímetros.
+Peso: 55 kilogramos.
+
+Habilidades:
+ * Mar Llamas
+ * Puño Férreo
+---------------------
+
+---------------------
+Pokémon: lucario.
+Altura: 120 centímetros.
+Peso: 54 kilogramos.
+
+Habilidades:
+ * Impasible
+ * Foco Interno
+ * Justiciero
+---------------------
+
+---------------------
+Pokémon: toxicroak.
+Altura: 130 centímetros.
+Peso: 44 kilogramos.
+
+Habilidades:
+ * Anticipación
+ * Piel Seca
+ * Toque Tóxico
+---------------------
+
+---------------------
+Pokémon: gallade.
+Altura: 160 centímetros.
+Peso: 52 kilogramos.
+
+Habilidades:
+ * Impasible
+ * Justiciero
+---------------------
+
+---------------------
+Pokémon: emboar.
+Altura: 160 centímetros.
+Peso: 150 kilogramos.
+
+Habilidades:
+ * Mar Llamas
+ * Audaz
+---------------------
+
+---------------------
+Pokémon: conkeldurr.
+Altura: 140 centímetros.
+Peso: 87 kilogramos.
+
+Habilidades:
+ * Agallas
+ * Potencia Bruta
+ * Puño Férreo
+---------------------
+
+---------------------
+Pokémon: throh.
+Altura: 130 centímetros.
+Peso: 55 kilogramos.
+
+Habilidades:
+ * Agallas
+ * Foco Interno
+ * Rompemoldes
+---------------------
+
+---------------------
+Pokémon: sawk.
+Altura: 140 centímetros.
+Peso: 51 kilogramos.
+
+Habilidades:
+ * Robustez
+ * Foco Interno
+ * Rompemoldes
+---------------------
+
+---------------------
+Pokémon: scrafty.
+Altura: 110 centímetros.
+Peso: 30 kilogramos.
+
+Habilidades:
+ * Mudar
+ * Autoestima
+ * Intimidación
+---------------------
+
+---------------------
+Pokémon: mienshao.
+Altura: 140 centímetros.
+Peso: 35 kilogramos.
+
+Habilidades:
+ * Foco Interno
+ * Regeneración
+ * Audaz
+---------------------
+
+---------------------
+Pokémon: cobalion.
+Altura: 210 centímetros.
+Peso: 250 kilogramos.
+
+Habilidades:
+ * Justiciero
+---------------------
+
+---------------------
+Pokémon: terrakion.
+Altura: 190 centímetros.
+Peso: 260 kilogramos.
+
+Habilidades:
+ * Justiciero
+---------------------
+
+---------------------
+Pokémon: virizion.
+Altura: 200 centímetros.
+Peso: 200 kilogramos.
+
+Habilidades:
+ * Justiciero
+---------------------
+
+---------------------
+Pokémon: keldeo-ordinary.
+Altura: 140 centímetros.
+Peso: 48 kilogramos.
+
+Habilidades:
+ * Justiciero
+---------------------
+
+---------------------
+Pokémon: chesnaught.
+Altura: 160 centímetros.
+Peso: 90 kilogramos.
+
+Habilidades:
+ * Espesura
+ * Antibalas
+---------------------
+
+---------------------
+Pokémon: pangoro.
+Altura: 210 centímetros.
+Peso: 136 kilogramos.
+
+Habilidades:
+ * Puño Férreo
+ * Rompemoldes
+ * Intrépido
+---------------------
+
+---------------------
+Pokémon: hawlucha.
+Altura: 80 centímetros.
+Peso: 21 kilogramos.
+
+Habilidades:
+ * Flexibilidad
+ * Liviano
+ * Rompemoldes
+---------------------
+
+---------------------
+Pokémon: crabominable.
+Altura: 170 centímetros.
+Peso: 180 kilogramos.
+
+Habilidades:
+ * Corte Fuerte
+ * Puño Férreo
+ * Irascible
+---------------------
+
+---------------------
+Pokémon: bewear.
+Altura: 210 centímetros.
+Peso: 135 kilogramos.
+
+Habilidades:
+ * Peluche
+ * Zoquete
+ * Nerviosismo
+---------------------
+
+---------------------
+Pokémon: passimian.
+Altura: 200 centímetros.
+Peso: 82 kilogramos.
+
+Habilidades:
+ * Receptor
+ * Competitivo
+---------------------
+
+---------------------
+Pokémon: kommo-o.
+Altura: 160 centímetros.
+Peso: 78 kilogramos.
+
+Habilidades:
+ * Antibalas
+ * Insonorizar
+ * Funda
+---------------------
+
+---------------------
+Pokémon: buzzwole.
+Altura: 240 centímetros.
+Peso: 333 kilogramos.
+
+Habilidades:
+ * Ultraimpulso
+---------------------
+
+---------------------
+Pokémon: pheromosa.
+Altura: 180 centímetros.
+Peso: 25 kilogramos.
+
+Habilidades:
+ * Ultraimpulso
+---------------------
+
+---------------------
+Pokémon: marshadow.
+Altura: 70 centímetros.
+Peso: 22 kilogramos.
+
+Habilidades:
+ * Experto
+---------------------
+
+---------------------
+Pokémon: grapploct.
+Altura: 160 centímetros.
+Peso: 39 kilogramos.
+
+Habilidades:
+ * Flexibilidad
+ * Experto
+---------------------
+
+---------------------
+Pokémon: sirfetchd.
+Altura: 80 centímetros.
+Peso: 117 kilogramos.
+
+Habilidades:
+ * Impasible
+ * Intrépido
+---------------------
+
+---------------------
+Pokémon: falinks.
+Altura: 300 centímetros.
+Peso: 62 kilogramos.
+
+Habilidades:
+ * Armadura Batalla
+ * Competitivo
+---------------------
+
+---------------------
+Pokémon: zamazenta.
+Altura: 290 centímetros.
+Peso: 210 kilogramos.
+
+Habilidades:
+ * Escudo Recio
+---------------------
+
+---------------------
+Pokémon: urshifu-single-strike.
+Altura: 190 centímetros.
+Peso: 105 kilogramos.
+
+Habilidades:
+ * Puño Invisible
+---------------------
+
+---------------------
+Pokémon: meloetta-pirouette.
+Altura: 60 centímetros.
+Peso: 6 kilogramos.
+
+Habilidades:
+ * Dicha
+---------------------
+
+---------------------
+Pokémon: keldeo-resolute.
+Altura: 140 centímetros.
+Peso: 48 kilogramos.
+
+Habilidades:
+ * Justiciero
+---------------------
+
+---------------------
+Pokémon: mewtwo-mega-x.
+Altura: 230 centímetros.
+Peso: 127 kilogramos.
+
+Habilidades:
+ * Impasible
+---------------------
+
+---------------------
+Pokémon: heracross-mega.
+Altura: 170 centímetros.
+Peso: 62 kilogramos.
+
+Habilidades:
+ * Encadenado
+---------------------
+
+---------------------
+Pokémon: blaziken-mega.
+Altura: 190 centímetros.
+Peso: 52 kilogramos.
+
+Habilidades:
+ * Impulso
+---------------------
+
+---------------------
+Pokémon: medicham-mega.
+Altura: 130 centímetros.
+Peso: 31 kilogramos.
+
+Habilidades:
+ * Energía Pura
+---------------------
+
+---------------------
+Pokémon: lucario-mega.
+Altura: 130 centímetros.
+Peso: 57 kilogramos.
+
+Habilidades:
+ * Adaptable
+---------------------
+
+---------------------
+Pokémon: gallade-mega.
+Altura: 160 centímetros.
+Peso: 56 kilogramos.
+
+Habilidades:
+ * Foco Interno
+---------------------
+
+---------------------
+Pokémon: lopunny-mega.
+Altura: 130 centímetros.
+Peso: 28 kilogramos.
+
+Habilidades:
+ * Intrépido
+---------------------
+
+---------------------
+Pokémon: kommo-o-totem.
+Altura: 240 centímetros.
+Peso: 207 kilogramos.
+
+Habilidades:
+ * Antibalas
+ * Insonorizar
+ * Funda
+---------------------
+
+---------------------
+Pokémon: zapdos-galar.
+Altura: 160 centímetros.
+Peso: 58 kilogramos.
+
+Habilidades:
+ * Competitivo
+---------------------
+
+---------------------
+Pokémon: zamazenta-crowned.
+Altura: 290 centímetros.
+Peso: 785 kilogramos.
+
+Habilidades:
+ * Escudo Recio
+---------------------
+
+---------------------
+Pokémon: urshifu-rapid-strike.
+Altura: 190 centímetros.
+Peso: 105 kilogramos.
+
+Habilidades:
+ * Puño Invisible
+---------------------
