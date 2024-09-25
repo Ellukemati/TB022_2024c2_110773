@@ -4,18 +4,8 @@ pokemon_csv=$(find . -name "pokemon.csv")
 pokemon_abilities_csv=$(find . -name "pokemon_abilities.csv")
 ability_names_csv=$(find . -name "ability_names.csv")
 
-while true; do
-  echo ""
-  echo "> Ingrese el nombre de un Pokémon y se mostrará su información o ingrese 'Salir' para terminar:"
-  read -r pokemon_nombre
+while read -r pokemon_nombre || [[ -n "$pokemon_nombre" ]]; do
   pokemon_nombre=$(echo "$pokemon_nombre" | tr '[:upper:]' '[:lower:]')  
-
-  if [[ "$pokemon_nombre" == "salir" ]]; then
-    echo ""
-    echo "> Saliendo del programa..."
-    echo ""
-    exit 0
-  fi
 
   pokemon_info=$(awk -F "," -v nombre="$pokemon_nombre" '$2 == nombre {print $0}' "$pokemon_csv")
   
@@ -45,4 +35,4 @@ while true; do
     echo " * $nombre_habilidad"
   done
   echo "---------------------"
-done
+done < "${1:-/dev/stdin}"
